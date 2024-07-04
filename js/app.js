@@ -1,4 +1,3 @@
-
 const tariffa = 0.21
 console.log("La tarrifa è di " + tariffa + "€ per Km percorso")
 
