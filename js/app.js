@@ -12,9 +12,6 @@ formElement.addEventListener('submit', function (event) {
     const km = parseFloat(document.getElementById('km').value)
 	console.log(km)
 
-    const age = parseInt(document.getElementById('age').value)
-	console.log(age)
-
     const sconto = document.getElementById('sconto').value
     console.log(sconto)
 
